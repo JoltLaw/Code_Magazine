@@ -28,7 +28,7 @@ body {
   margin-bottom: 0;
   display: flex;
   align-items: center;
-  ustify-content: space-between;
+  justify-content: space-between;
   background-color: #f7f7f7;
   padding: 20px 40px;
   
